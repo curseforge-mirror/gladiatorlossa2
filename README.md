@@ -1,5 +1,6 @@
-# Curseforge Mirror Template
+# GladiatorlosSA2 Mirror
 
-This is a python script plus Github Action to generate a release every period of time for addons that aren't yet transitioned to Github.
+This is a mirror of xGrit's GladiatorlosSA2.
 
-This specific repo does nothing but acts as a template to build upon!
+- [Curseforge URL](https://www.curseforge.com/wow/addons/gladiatorlossa2)
+- [Github URL](https://github.com/Rhykes/GladiatorlosSA2)
